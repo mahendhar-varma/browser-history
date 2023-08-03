@@ -1,0 +1,48 @@
+.list-item {
+  display: flex;
+  flex-direction: row;
+}
+
+.time {
+  color: #64748b;
+  font-weight: bold;
+  font-size: 12px;
+  margin-right: 20px;
+}
+
+.type-container {
+  display: flex;
+  flex-direction: row;
+  width: 500px;
+}
+
+.logo-image {
+  width: 18px;
+  height: 18px;
+  margin-right: 12px;
+  margin-top: 12px;
+}
+
+.title {
+  color: #64748b;
+  font-size: 12px;
+  font-weight: bold;
+  margin-right: 8px;
+}
+
+.url {
+  color: #64748b;
+  font-size: 10px;
+  margin-top: 15px;
+}
+
+.button {
+  background: transparent;
+  border: none;
+  margin-top: 10px;
+}
+
+.delete-icon {
+  width: 12px;
+  height: 12px;
+}
